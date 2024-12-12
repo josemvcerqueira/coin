@@ -21,5 +21,5 @@ Check docs: [here](https://docs.sui.io/references/cli/client#commands)
 # Deploy this package
 
 ```bash
-sui move build --path ./move/
+sui client publish
 ```
